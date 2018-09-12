@@ -1,0 +1,27 @@
+openmpi/1.10.2(3):ERROR:150: Module 'openmpi/1.10.2' conflicts with the currently loaded module(s) 'openmpi/1.6.3'
+openmpi/1.10.2(3):ERROR:102: Tcl command execution failed: source /opt/Modules/extensions/extensions.tcl
+
+mpirun: ERROR: ./CloudDE does not exist
+--------------------------------------------------------------------------
+mpirun was unable to launch the specified application as it could not access
+or execute an executable:
+
+Executable: ./CloudDE
+Node: r2900
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
+32 total processes failed to start
+
+======================================================================================
+                  Resource Usage on 2018-05-23 22:59:14:
+   Job Id:             7117479.r-man2
+   Project:            c38
+   Exit Status:        131 (Linux Signal 3 SIGQUIT Quit)
+   Service Units:      0.03
+   NCPUs Requested:    32                     NCPUs Used: 32              
+                                           CPU Time Used: 00:00:01                                   
+   Memory Requested:   128.0GB               Memory Used: 0B              
+   Walltime requested: 10:00:00            Walltime Used: 00:00:03        
+   JobFS requested:    100.0GB                JobFS used: 0B              
+======================================================================================

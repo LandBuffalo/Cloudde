@@ -1,0 +1,63 @@
+openmpi/1.10.2(3):ERROR:150: Module 'openmpi/1.10.2' conflicts with the currently loaded module(s) 'openmpi/1.6.3'
+openmpi/1.10.2(3):ERROR:102: Tcl command execution failed: source /opt/Modules/extensions/extensions.tcl
+
+------run_ID = 1--------
+------run_ID = 2--------
+------run_ID = 3--------
+------run_ID = 4--------
+------run_ID = 5--------
+------run_ID = 6--------
+------run_ID = 7--------
+------run_ID = 8--------
+------run_ID = 9--------
+------run_ID = 10--------
+------run_ID = 11--------
+------run_ID = 12--------
+------run_ID = 13--------
+------run_ID = 14--------
+------run_ID = 15--------
+Total Elapsed time: 33089.958278 seconds
+Total Elapsed time: 33089.958280 seconds
+Total Elapsed time: 33089.958262 seconds
+Total Elapsed time: 33089.958290 seconds
+Total Elapsed time: 33089.958283 seconds
+Total Elapsed time: 33089.958287 seconds
+Total Elapsed time: 33089.958262 seconds
+Total Elapsed time: 33089.958279 seconds
+Total Elapsed time: 33089.958268 seconds
+Total Elapsed time: 33089.958294 seconds
+Total Elapsed time: 33089.958297 seconds
+Total Elapsed time: 33089.958277 seconds
+Total Elapsed time: 33089.958277 seconds
+Total Elapsed time: 33089.957623 seconds
+Total Elapsed time: 33089.957627 seconds
+Total Elapsed time: 33089.957622 seconds
+Total Elapsed time: 33089.957640 seconds
+Total Elapsed time: 33089.957617 seconds
+Total Elapsed time: 33089.958283 seconds
+Total Elapsed time: 33089.958288 seconds
+Total Elapsed time: 33089.957624 seconds
+Total Elapsed time: 33089.957606 seconds
+Total Elapsed time: 33089.957621 seconds
+Total Elapsed time: 33089.957610 seconds
+Total Elapsed time: 33089.957635 seconds
+Total Elapsed time: 33089.957612 seconds
+Total Elapsed time: 33089.957632 seconds
+Total Elapsed time: 33089.957628 seconds
+Total Elapsed time: 33089.957619 seconds
+Total Elapsed time: 33089.957621 seconds
+Total Elapsed time: 33089.957625 seconds
+Total Elapsed time: 33089.958472 seconds
+
+======================================================================================
+                  Resource Usage on 2018-05-24 16:17:35:
+   Job Id:             7143250.r-man2
+   Project:            c38
+   Exit Status:        0
+   Service Units:      294.20
+   NCPUs Requested:    32                     NCPUs Used: 32              
+                                           CPU Time Used: 293:58:22                                  
+   Memory Requested:   128.0GB               Memory Used: 326.34MB        
+   Walltime requested: 20:00:00            Walltime Used: 09:11:37        
+   JobFS requested:    100.0GB                JobFS used: 1.0KB           
+======================================================================================

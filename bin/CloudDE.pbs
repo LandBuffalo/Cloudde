@@ -1,0 +1,12 @@
+#!/bin/bash
+#PBS -q normal
+#PBS -l walltime=20:00:00
+#PBS -l mem=128GB
+#PBS -l jobfs=100GB
+#PBS -l wd
+#PBS -j oe
+#PBS -P c38
+
+module load openmpi/1.10.2
+
+mpirun ./CloudDE -dim 100  -pop_size 256 -island_num 4 -total_runs 1-15 -computing_time $COMPUTING_TIME -total_functions $FUNC1-$FUNC2

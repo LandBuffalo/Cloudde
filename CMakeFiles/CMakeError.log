@@ -1,0 +1,276 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icc 
+Build flags: 
+Id flags:  
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCCompilerId.c (code 4)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCCompilerId.c (code 4)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCCompilerId.c (code 4)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCCompilerId.c (code 4)
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+icc: command line error: no files specified; for help type "icc -help"
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icpc 
+Build flags: 
+Id flags:  
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCXXCompilerId.cpp (code 4)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icpc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCXXCompilerId.cpp (code 4)
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+icpc: command line error: no files specified; for help type "icpc -help"
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_3ceba/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_3ceba.dir/build.make CMakeFiles/cmTC_3ceba.dir/build
+gmake[1]: Entering directory `/home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3ceba.dir/testCCompiler.c.o
+/apps/intel-ct/cc-wrapper/icc    -o CMakeFiles/cmTC_3ceba.dir/testCCompiler.c.o   -c /home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp/testCCompiler.c
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for /home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp/testCCompiler.c (code 4)
+gmake[1]: *** [CMakeFiles/cmTC_3ceba.dir/testCCompiler.c.o] Error 4
+gmake[1]: Leaving directory `/home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_3ceba/fast] Error 2
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icc 
+Build flags: 
+Id flags:  
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCCompilerId.c (code 4)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCCompilerId.c (code 4)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCCompilerId.c (code 4)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCCompilerId.c (code 4)
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+icc: command line error: no files specified; for help type "icc -help"
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icpc 
+Build flags: 
+Id flags:  
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCXXCompilerId.cpp (code 4)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icpc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCXXCompilerId.cpp (code 4)
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+icpc: command line error: no files specified; for help type "icpc -help"
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_dab86/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_dab86.dir/build.make CMakeFiles/cmTC_dab86.dir/build
+gmake[1]: Entering directory `/home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dab86.dir/testCCompiler.c.o
+/apps/intel-ct/cc-wrapper/icc    -o CMakeFiles/cmTC_dab86.dir/testCCompiler.c.o   -c /home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp/testCCompiler.c
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for /home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp/testCCompiler.c (code 4)
+gmake[1]: *** [CMakeFiles/cmTC_dab86.dir/testCCompiler.c.o] Error 4
+gmake[1]: Leaving directory `/home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_dab86/fast] Error 2
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icc 
+Build flags: 
+Id flags:  
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCCompilerId.c (code 4)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCCompilerId.c (code 4)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCCompilerId.c (code 4)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCCompilerId.c (code 4)
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+icc: command line error: no files specified; for help type "icc -help"
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icpc 
+Build flags: 
+Id flags:  
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCXXCompilerId.cpp (code 4)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /apps/intel-ct/cc-wrapper/icpc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+4
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for CMakeCXXCompilerId.cpp (code 4)
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+icpc: command line error: no files specified; for help type "icpc -help"
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_e8e32/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_e8e32.dir/build.make CMakeFiles/cmTC_e8e32.dir/build
+gmake[1]: Entering directory `/home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e8e32.dir/testCCompiler.c.o
+/apps/intel-ct/cc-wrapper/icc    -o CMakeFiles/cmTC_e8e32.dir/testCCompiler.c.o   -c /home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp/testCCompiler.c
+Catastrophic error: could not set locale "" to allow processing of multibyte characters
+
+compilation aborted for /home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp/testCCompiler.c (code 4)
+gmake[1]: *** [CMakeFiles/cmTC_e8e32.dir/testCCompiler.c.o] Error 4
+gmake[1]: Leaving directory `/home/595/cxj595/thesis/Cloudde/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_e8e32/fast] Error 2
+
+
